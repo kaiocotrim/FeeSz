@@ -148,4 +148,4 @@ Technical IT Student • Future Software Developer • Technology Enthusiast
 
 <img src="https://media2.giphy.com/media/pkfWxD1OWjwhnpF2Rb/giphy.gif" width="500">
 
-</div>
+</div>    
